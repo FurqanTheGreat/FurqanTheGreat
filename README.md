@@ -1,5 +1,5 @@
 # Muhammad Furqan
-> ### Full Stack Engineer | JavaScript, React, Express, PostgreSQL
+> ### Full Stack Engineer | Web Designer | Graphic an Logo Designer
 
 I am a dedicated full-stack developer with expertise in building robust and scalable web applications. With a strong foundation in both frontend and backend technologies, I specialize in creating seamless user experiences while ensuring optimal performance and security.
 
