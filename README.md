@@ -5,10 +5,10 @@ I'm a full-stack developer with a passion for creating scalable web applications
 
 **Skills:**
 
-- **Frontend:** `HTML`, `CSS`, `JavaScript/TypeScript`, `React`, `Next.js`, `Flutter`, Responsive Design
-- **Backend:** `Node.js`, `Express`, `Django`, `Flask`, `GraphQL`, FastAPI, RESTful APIs, Authentication & Authorization
+- **Frontend:** HTML, CSS, JavaScript/TypeScript, React, Next.js, Flutter, Responsive Design
+- **Backend:** Node.js, Express, Django, Flask, GraphQL, FastAPI, RESTful APIs, Authentication & Authorization
 - **AI/ML:** TensorFlow, Keras, Scikit-learn, PyTorch
-- **Database:** `PostgreSQL`, `MySQL`, Firebase, Chroma, MongoDB, Database Design
+- **Database:** PostgreSQL, MySQL, Firebase, Chroma, MongoDB, Database Design
 - **LLM:** Gemini, Claude
 - **Tools & Platforms:** Git, GitHub, Heroku, Docker, AWS, Kubernetes, CI/CD, Azure
 - **Others:** API integration, Third-party services, debugging & testing, version control
