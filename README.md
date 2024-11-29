@@ -1,23 +1,25 @@
 # Muhammad Furqan
-> ### Full Stack Engineer | Web Designer | Graphic and Logo Designer
+> ### Full Stack Developer | AI/ML Engineer | Innovator | Programming Enthusiast
 
-I am a dedicated full-stack developer with expertise in building robust and scalable web applications. With a strong foundation in both frontend and backend technologies, I specialize in creating seamless user experiences while ensuring optimal performance and security.
+I'm a full-stack developer with a passion for creating scalable web applications and an AI engineer focused on building intelligent systems. With experience in both front-end and back-end development, I build robust solutions that prioritize performance, scalability, and user experience.
 
 **Skills:**
 
-- Frontend: `HTML`, `CSS`, `JavaScript`, `React`, Responsive Design
-- Backend: `Node.js`, `Express`, RESTful APIs, Authentication & Authorization
-- Database: `PostgreSQL`, MongoDB, Database Design, `SQL`
-- Tools & Platforms: Git, GitHub, Heroku, Docker, AWS
-- Others: API integration, Third-party services, debugging & testing, version control
+- **Frontend:** `HTML`, `CSS`, `JavaScript/TypeScript`, `React`, `Next.js`, `Flutter`, Responsive Design
+- **Backend:** `Node.js`, `Express`, `Django`, `Flask`, `GraphQL`, FastAPI, RESTful APIs, Authentication & Authorization
+- **AI/ML:** TensorFlow, Keras, Scikit-learn, PyTorch
+- **Database:** `PostgreSQL`, `MySQL`, Firebase, Chroma, MongoDB, Database Design
+- **LLM:** Gemini, Claude
+- **Tools & Platforms:** Git, GitHub, Heroku, Docker, AWS, Kubernetes, CI/CD, Azure
+- **Others:** API integration, Third-party services, debugging & testing, version control
 
 **What I Offer:**
 
-- Custom web application development from concept to deployment
-- API development and integration
-- Database design and optimization
-- Frontend development with a focus on user experience
-- Performance tuning and troubleshooting
+- **Full-Stack Development:** Building dynamic, user-friendly web applications from scratch with end-to-end development.
+- **AI/ML Solutions:** Leveraging machine learning to build intelligent systems, predictive models, and AI-driven applications.
+- **Custom Software Solutions:** Tailoring software applications to meet unique business or personal needs with high performance and scalability.
+- **Consultation:** Offering insights and guidance on AI implementation, full-stack development best practices, and technology stacks.
+- **Optimization:** Improving application performance, reducing technical debt, and enhancing user experience through best development practices.
 
 **Why Choose Me:**
 
