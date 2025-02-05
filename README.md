@@ -1,7 +1,7 @@
 # Muhammad Furqan
-> ### Full Stack Developer | AI/ML Engineer | Innovator | Programming Enthusiast
+> ### Full Stack Developer | AI/ML & Data Science Student | Innovator | Programming Enthusiast
 
-I'm a full-stack developer with a passion for creating scalable web applications and an AI engineer focused on building intelligent systems. With experience in both front-end and back-end development, I build robust solutions that prioritize performance, scalability, and user experience.
+Hi! I'm Furqan, a JavaScript and Python aficionado with a passion for crafting dynamic, efficient, and user-centric web applications, as well as creating intelligent, data-driven systems. As a Full-Stack Engineer, I'm currently diving deep into the fields of Artificial Intelligence, Machine Learning, and Data Science. I aspire to develop innovative solutions that bridge the gap between Full-Stack development and data-driven intelligence. I build robust solutions that prioritize performance, scalability, and user experience, from simple apps to Dynamic Full-Stack applications and Advanced AI-powered systems.
 
 **Skills:**
 
