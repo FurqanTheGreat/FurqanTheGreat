@@ -29,7 +29,7 @@ Hi! I'm Furqan, a JavaScript and Python aficionado with a passion for crafting d
 - **Reliability:** I meet deadlines and ensure that the deliverables align with your expectations.
 
 Let’s work together to bring your vision to life! Feel free to reach out, and let’s discuss how I can contribute to your project’s success. <br>
-<a href="https://furqanthegreat.github.io/Portfolio/" target="_blank">My Portfolio</a>
+<a href="https://m-furqan.vercel.app" target="_blank">My Portfolio</a>
 
 
 
